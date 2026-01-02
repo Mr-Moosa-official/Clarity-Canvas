@@ -1,4 +1,4 @@
-# Firebase Studio
+# Clarity Canvas
 
 This is a NextJS starter in Firebase Studio.
 
