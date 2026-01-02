@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "admin-avatar",
+      "description": "Administrator avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1595211877493-41a4e5f236b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjcyMzE4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "student-1",
+      "description": "Student avatar 1",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY3MjE3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "student-2",
+      "description": "Student avatar 2",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdHVkZW50JTIwcHJvZmlsZXxlbnwwfHx8fDE3NjcyMDc0MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student profile"
+    },
+    {
+      "id": "student-3",
+      "description": "Student avatar 3",
+      "imageUrl": "https://images.unsplash.com/photo-1541178735493-479c1a27ed24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzdHVkeWluZ3xlbnwwfHx8fDE3NjcyNTk0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person studying"
+    }
+  ]
 }
