@@ -8,7 +8,7 @@ The platform supports data-driven decision making to improve learning outcomes a
 
 Clarity Canvas enables institutions to:
 
-Aggregate learning data from multiple sources
+Aggregate  learning data from multiple sources
 
 Visualize performance metrics clearly
 
